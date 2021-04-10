@@ -1,1 +1,1 @@
-# My-Trex-Game
+# T-rex
